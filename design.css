@@ -1,0 +1,37 @@
+body{
+    color : purple;
+    text-align : center;
+  } 
+  img
+  {
+    border: 10px solid lightgrey;
+    border-radius: 20px;
+     width:350px;
+   
+  }
+  h3
+  {
+    color: red;
+    font-size: 20px;
+    
+  }
+  a
+  {
+    font-size: 20px;
+    border-style: solid;
+    border-color: rgba(2, 196, 255, 0.851);
+    border-width: 2px;
+    padding: 10px;  
+  }
+  #pet_name
+  {
+    color: blue;
+  }
+  .fact1
+  {
+    color:white;
+    border: 2px solid purple; 
+    background-color: grey;
+    padding:10px;
+    border-radius: 20px;
+  } 
